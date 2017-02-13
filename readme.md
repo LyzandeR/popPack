@@ -1,5 +1,9 @@
 ## popPack
 
+#### Build Status
+
+[![Travis-CI Build Status](https://travis-ci.org/LyzandeR/popPack.svg?branch=master)](https://travis-ci.org/LyzandeR/popPack)
+
 This is a package which has only one goal. To install most of (if not all) the popular packages in R. 
 
 It contains no useful functions.
