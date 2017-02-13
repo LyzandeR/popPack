@@ -57,3 +57,6 @@ devtools::install_github('lyzander/popPack')
 * microbenchmark
 * xlsx
 * openxlsx
+* rgl
+* tidyr
+* gtable

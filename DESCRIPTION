@@ -46,7 +46,10 @@ Imports: httr,
          gridExtra,
          microbenchmark,
          xlsx,
-         openxlsx
+         openxlsx,
+         rgl,
+         tidyr,
+         gtable
 Description: An R package built with the specific mission to install all the
     popular packages, when R needs to be installed from scratch. It does not 
     contain any useful functions.
