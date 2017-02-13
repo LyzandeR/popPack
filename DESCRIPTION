@@ -19,9 +19,10 @@ Imports: httr,
          randomForest,
          sparklyr,
          e1071,
+         survival (>= 2.40),
          Hmisc,
          rmarkdown,
-         survival (>= 2.40),
+         MASS,
          colf,
          ggvis,
          shiny,
@@ -50,7 +51,12 @@ Imports: httr,
          openxlsx,
          rgl,
          tidyr,
-         gtable
+         gtable,
+         gbm,
+         nnet,
+         glmnet,
+         relaImpo,
+         pROC
 Description: An R package built with the specific mission to install all the
     popular packages, when R needs to be installed from scratch. It does not 
     contain any useful functions.
