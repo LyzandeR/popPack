@@ -1,0 +1,54 @@
+Package: popPack
+Type: Package
+Title: Popular Packages
+Version: 0.1.7
+Authors@R: person("Theo", 
+                  "Boutaris", 
+                  email = "teoboot2007@hotmail.com", 
+                  role = c("aut", "cre", "cph"))
+URL: https://github.com/LyzandeR/popPack                
+BugReports: https://github.com/LyzandeR/popPack/issues
+Depends: R (>= 3.2.0)
+Imports: httr,
+         jsonlite,
+         ggplot2,
+         dplyr,
+         highcharter,
+         data.table,
+         caret,
+         randomForest,
+         sparklyr,
+         e1071,
+         Hmisc,
+         rmarkdown,
+         colf,
+         ggvis,
+         shiny,
+         htmlwidgets,
+         lme4,
+         reshape2,
+         tableHTML,
+         RSelenium,
+         stringi,
+         tm,
+         devtools,
+         roxygen2,
+         testthat,
+         xgboost,
+         FNN,
+         htmltools,
+         revealjs,
+         xts,
+         lubridate,
+         plotly,
+         Matrix,
+         car,
+         DEoptimR,
+         gridExtra,
+         microbenchmark
+Description: An R package built with the specific mission to install all the
+    popular packages, when R needs to be installed from scratch. It does not 
+    contain any useful functions.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
