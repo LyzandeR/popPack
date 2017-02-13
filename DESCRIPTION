@@ -31,7 +31,6 @@ Imports: httr,
          RSelenium,
          stringi,
          tm,
-         devtools,
          roxygen2,
          testthat,
          xgboost,
@@ -45,7 +44,9 @@ Imports: httr,
          car,
          DEoptimR,
          gridExtra,
-         microbenchmark
+         microbenchmark,
+         xlsx,
+         openxlsx
 Description: An R package built with the specific mission to install all the
     popular packages, when R needs to be installed from scratch. It does not 
     contain any useful functions.
