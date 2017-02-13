@@ -10,7 +10,7 @@ you load popPack anyway).
 
 ## How to Install
 
-You need `devtools` to install this package (`install.packages('devtools'` from the R console). Then just type on 
+You need `devtools` to install this package (`install.packages('devtools')` from the R console). Then just type on 
 your console:
 
 ```{r}
