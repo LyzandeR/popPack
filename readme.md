@@ -33,8 +33,8 @@ devtools::install_github('lyzander/popPack')
 * randomForest
 * sparklyr
 * e1071
-* Hmisc
 * rmarkdown
+* MASS
 * colf
 * ggvis
 * shiny
@@ -42,7 +42,6 @@ devtools::install_github('lyzander/popPack')
 * lme4
 * reshape2
 * tableHTML
-* RSelenium
 * stringi
 * tm
 * roxygen2
@@ -51,7 +50,6 @@ devtools::install_github('lyzander/popPack')
 * FNN
 * htmltools
 * revealjs
-* xts
 * lubridate
 * plotly
 * Matrix
@@ -64,3 +62,8 @@ devtools::install_github('lyzander/popPack')
 * rgl
 * tidyr
 * gtable
+* gbm
+* nnet
+* glmnet
+* pROC
+* knitr
